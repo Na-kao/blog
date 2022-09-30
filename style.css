@@ -1,0 +1,12 @@
+.filmes{
+    font-size: 20px; padding:6px 22px ;border-radius:10px ; margin-bottom: 15px;
+}
+.filmes i{
+float: right;
+}
+.amarelo span{
+    color: yellow;
+}
+.img{
+    width: 200px; height: 300px; text-align: center;
+}
